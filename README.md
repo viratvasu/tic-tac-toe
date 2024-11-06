@@ -6,3 +6,6 @@ to run the game
 ### pattern used
 - Builder design pattern
 - Strategy design pattern
+
+### Github actions (workflows)
+- pylint
